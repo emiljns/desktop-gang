@@ -9,7 +9,7 @@ Read the whole story: **[Meet the gang on cookiewarrior.io](https://cookiewarrio
 
 ## Download
 
-**[⬇ Download DesktopGang.exe (latest)](https://github.com/emiljns/desktop-gang/releases/latest/download/DesktopGang.exe)**
+**[⬇ Download Volt.exe (latest, 64 MB)](https://github.com/emiljns/desktop-gang/releases/latest/download/Volt.exe)**
 
 All versions are under [Releases](https://github.com/emiljns/desktop-gang/releases).
 
