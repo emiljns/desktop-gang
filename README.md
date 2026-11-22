@@ -39,6 +39,8 @@ Every character has a secret. Leave your PC alone for 10 minutes and see where t
 | **Penguin** | The favourite. Round, waddles, has his own igloo. |
 | **Volt 2** | Rounder and cuter, with a big visor full of glowing eyes. |
 
+## Artwork created with the help of AI.
+
 ---
 
 Made by [Emil](https://cookiewarrior.io) on Windows 11, written in C#. This repository only holds the downloads.
